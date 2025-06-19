@@ -7,7 +7,7 @@ Este proyecto es una Tienda virtual que permite comprar artículos.
 - Lee sobre la extensión para VS Code: https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright
 
 ## Estructura del proyecto
-src -> Contiene todo el código necesario para desarrollar las pruebas
+test -> Contiene todo el código necesario para desarrollar las pruebas
 
 ## ¿Cómo empezar?
 Configuración:
